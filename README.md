@@ -9308,6 +9308,13 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/shalevy1">
+            <img src="https://avatars.githubusercontent.com/u/23245639?v=4" width="100;" alt="shalevy1"/>
+            <br />
+            <sub><b>Shalom Halevy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alandefreitas">
             <img src="https://avatars.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
             <br />
@@ -9341,15 +9348,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Actions-user</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/leha-bot">
             <img src="https://avatars.githubusercontent.com/u/10153298?v=4" width="100;" alt="leha-bot"/>
             <br />
             <sub><b>Alex</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rath3t">
             <img src="https://avatars.githubusercontent.com/u/10537464?v=4" width="100;" alt="rath3t"/>
@@ -9384,15 +9391,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Gitplcc</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/madronalabs">
             <img src="https://avatars.githubusercontent.com/u/1434276?v=4" width="100;" alt="madronalabs"/>
             <br />
             <sub><b>Randy Jones</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sammi">
             <img src="https://avatars.githubusercontent.com/u/189128?v=4" width="100;" alt="sammi"/>
@@ -9427,15 +9434,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>BC!lint Cserni</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/david-x64">
             <img src="https://avatars.githubusercontent.com/u/11367746?v=4" width="100;" alt="david-x64"/>
             <br />
             <sub><b>David</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dimztimz">
             <img src="https://avatars.githubusercontent.com/u/6236568?v=4" width="100;" alt="dimztimz"/>
@@ -9470,15 +9477,15 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Morwenn</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/kaffehalv">
             <img src="https://avatars.githubusercontent.com/u/33203776?v=4" width="100;" alt="kaffehalv"/>
             <br />
             <sub><b>Niclas Wall Wennerdal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/solosuper">
             <img src="https://avatars.githubusercontent.com/u/11663739?v=4" width="100;" alt="solosuper"/>
@@ -9513,7 +9520,8 @@ If contributing to the documentation, please edit [`README.md`](README.md) direc
             <br />
             <sub><b>Kwoodle</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ankane">
             <img src="https://avatars3.githubusercontent.com/u/220358?v=4" width="100;" alt="ankane"/>
